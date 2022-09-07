@@ -1,8 +1,20 @@
- # State of data 2021 - Como reter profissionais gestores em dados ?
- 
-<p align="left"> 
-<img src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"></a> 
-</p>
+# State of data 2021 - Como reter profissionais gestores em dados ?
+
+Neste repositório você encontrará as informações do meu projeto que elaborei para participar do Challenge do State of Data Brazil 2021. 
+
+O objetivo desse projeto foi extrair insights de como reter profissionais gestores em dados a partir dos dados da pesquisa do [State of Data Brazil](www.stateofdata.com.br).
+
+
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Como reter profissionais gestores em dados?**
+| :label: Tecnologias | python
+| :rocket: URL         | https://www.kaggle.com/code/franciscotadeufoz/como-reter-profissionais-gestores-em-dados
+| :fire: Desafio     | https://www.kaggle.com/datasets/datahackers/state-of-data-2021/discussion/325264
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80#vitrinedev)
 
 photo by [Jason Goodman](https://unsplash.com/@jasongoodman_youxventures) on [Unsplash](https://unsplash.com/)
 
@@ -12,14 +24,6 @@ Elaborado por Francico Foz
 <a href="https://img.shields.io/badge/author-gustavolq-blue.svg)](https://www.linkedin.com/in/francisco-tadeu-foz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 ---
-
-Olá! 
-
-Neste repositório você encontrará as informações do meu projeto que elaborei para participar do Challenge do State of Data Brazil 2021. 
-
-O notebook original está aqui().
-
-Mas você pode encontrar o .ipybn nas pastas do repositório também.
 
 
 ## Introdução
